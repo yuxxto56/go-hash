@@ -1,4 +1,5 @@
 # go-hash
+封装golang中hash【md5与sha1】方法
 ### 使用
 ```cassandraql
 package main
